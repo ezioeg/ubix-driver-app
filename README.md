@@ -15,14 +15,19 @@ Ubix Driver App is a mobile application that allows real-time tracking of driver
 - React Native v0.62
 - React v16.11
 - React Navigation v5 (Stack y Bottom Tabs)
-- React Native Paper v4.9
-- React Native Vector Icons v6.6
 - Gesture Handler v1.6
 - Reanimated v1.9
 - Safe Area Context v2.0
 - Screens v2.8
 - Keyboard Aware Scroll View v0.9
-- Easy Toast v1.2
+
+### State Management
+- Context API
+
+### UI/Styling
+- React Native Paper v4.9
+- React Native Vector Icons v6.6
+- React Native Easy Toast v1.2
 - Checkbox v0.4
 
 ### Backend as a Service
