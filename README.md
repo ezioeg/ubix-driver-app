@@ -11,10 +11,37 @@ Ubix Driver App is a mobile application that allows real-time tracking of driver
 
 ## Technologies Used
 
-- **React Native**
-- **Context API**
-- **Firebase**: For user authentication, data storage, and notifications.
-- **Google Maps API**
+### Core
+- React Native v0.62
+- React v16.11
+- React Navigation v5 (Stack y Bottom Tabs)
+- React Native Paper v4.9
+- React Native Vector Icons v6.6
+- Gesture Handler v1.6
+- Reanimated v1.9
+- Safe Area Context v2.0
+- Screens v2.8
+- Keyboard Aware Scroll View v0.9
+- Easy Toast v1.2
+- Checkbox v0.4
+
+### Backend-as-a-Service
+- React Native Firebase v12.3
+- Geofirestore v4.1
+
+### Maps and Geolocation
+- React Native Maps v0.27
+- Maps Directions v1.8
+- Geolocation Service v5.0
+- Geocoding v0.4
+
+### Push Notifications
+- OneSignal v4.1
+- React Native Push Notification v7.4
+
+### Utils
+- React Native Config v1.5
+- React Native Permissions v2.1
 
 ## Setup
 
