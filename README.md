@@ -9,41 +9,38 @@ Ubix Driver App is a mobile application that allows real-time tracking of driver
 
 ## Technologies Used
 ### Core
-- React Native v0.62
-- React v16.11
-- React Navigation v5 (Stack y Bottom Tabs)
-- Gesture Handler v1.6
-- Reanimated v1.9
-- Safe Area Context v2.0
-- Screens v2.8
-- Keyboard Aware Scroll View v0.9
+- [React Native](https://www.npmjs.com/package/react-native) `v0.62`  
+- [React](https://www.npmjs.com/package/react) `v16.11`  
+- [React Navigation](https://www.npmjs.com/package/@react-navigation/native) `v5` (Stack y Bottom Tabs)
+- [React Native Keyboard Aware Scroll View](https://www.npmjs.com/package/react-native-keyboard-aware-scroll-view) `v0.9`  
 
-### UI/Styling
-- React Native Paper v4.9
-- React Native Vector Icons v6.6
-- React Native Easy Toast v1.2
-- Checkbox v0.4
+### UI / Styling
+- [React Native Paper](https://www.npmjs.com/package/react-native-paper) `v4.9`  
+- [React Native Vector Icons](https://www.npmjs.com/package/react-native-vector-icons) `v6.6`  
+- [React Native Easy Toast](https://www.npmjs.com/package/react-native-easy-toast) `v1.2`  
+- [React Native Checkbox](https://www.npmjs.com/package/@react-native-community/checkbox) `v0.4`  
 
 ### State Management
 - Context API
 
 ### Maps & Geolocation
-- React Native Maps v0.27
-- Maps Directions v1.8
-- Geolocation Service v5.0
-- Geocoding v0.4
+- [React Native Maps](https://www.npmjs.com/package/react-native-maps) `v0.27`  
+- [React Native Maps Directions](https://www.npmjs.com/package/react-native-maps-directions) `v1.8`  
+- [React Native Geolocation Service](https://www.npmjs.com/package/react-native-geolocation-service) `v5.0`  
+- [React Native Geocoding](https://www.npmjs.com/package/react-native-geocoding) `v0.4`  
 
 ### Push Notifications
-- OneSignal v4.1
-- React Native Push Notification v7.4
+- [OneSignal React Native](https://www.npmjs.com/package/react-native-onesignal) `v4.1`  
+- [React Native Push Notification](https://www.npmjs.com/package/react-native-push-notification) `v7.4`  
 
 ### Utilities
-- React Native Config v1.5
-- React Native Permissions v2.1
+- [React Native Config](https://www.npmjs.com/package/react-native-config) `v1.5`  
+- [React Native Permissions](https://www.npmjs.com/package/react-native-permissions) `v2.1`  
 
 ### Backend as a Service
-- React Native Firebase v12.3 (Auth, Firestore, Storage, Cloud Messaging, Cloud Functions)
-- Geofirestore v4.1
+- [React Native Firebase](https://www.npmjs.com/package/@react-native-firebase/app) `v12.3`  
+  - Módulos usados: Auth, Firestore, Storage, Cloud Messaging, Cloud Functions  
+- [Geofirestore](https://www.npmjs.com/package/geofirestore) `v4.1`  
 
 ## Setup
 1. Install the dependencies:
