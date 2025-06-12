@@ -1,11 +1,11 @@
-# Ubix Driver App
-Ubix Driver App is a mobile application that allows real-time tracking of driver locations and manages order deliveries. The app enhances communication with drivers and efficiently handles the delivery of orders to customers.
+## 🚚 Ubix Driver App  
+Mobile application for real-time tracking of driver locations and managing order deliveries. Enhances communication with drivers and streamlines delivery processes.
 
-## Features
-- **Interactive Map**: Real-time visualization of driver locations.
-- **Real-time Updates**: Driver positions are updated automatically.
-- **Order Management**: Receive notifications about new orders and manage the delivery of those orders to customers.
-- **Intuitive User Interface**: Easy-to-use design for managing drivers and orders.
+### Features  
+- **Interactive Map**: Real-time visualization of driver locations.  
+- **Real-time Updates**: Automatic updates of driver positions.  
+- **Order Management**: Notifications for new orders and delivery management.  
+- **Intuitive User Interface**: Easy-to-use design for driver and order management.
 
 ## Technologies Used
 ### Core
